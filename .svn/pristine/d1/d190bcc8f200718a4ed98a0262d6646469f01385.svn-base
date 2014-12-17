@@ -1,0 +1,4 @@
+jdbcSQLServerDriverClassName=com.microsoft.sqlserver.jdbc.SQLServerDriver
+jdbcSQLServerUri=jdbc:sqlserver://127.0.0.1:1433;databaseName=message_board;
+jdbcSQLServerUsername=sa
+jdbcSQLServerUserpass=daihui888
